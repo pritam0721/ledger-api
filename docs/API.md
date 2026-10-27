@@ -1,6 +1,6 @@
 # API Documentation
 
-Base URL: `http://localhost:3000` (local) or your Render URL.
+Base URL: `` (local) or your Render URL.
 All requests and responses are JSON (`Content-Type: application/json`).
 Money values are returned as **strings** with 2 decimals (e.g. `"100.00"`). In requests, `amount` may be a number or a string.
 
